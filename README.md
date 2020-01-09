@@ -1,6 +1,6 @@
-# gtop
+# rztop
 
-![screen record](https://raw.githubusercontent.com/aksakalli/gtop/master/img/demo.gif)
+Fork of gtop so I could change what and how it displays things. Everything in this readme and repo that is not either this sentence or the preceeding sentence should have its accuracy questioned.
 
 System monitoring dashboard for terminal.
 
